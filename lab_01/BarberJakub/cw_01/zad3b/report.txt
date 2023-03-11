@@ -2,73 +2,73 @@
 file : ./results/results_dynamic_-O.txt ...
 
 
-	REAL:           6073 ns
+	REAL:           3923 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1565089 ns
+	REAL:           948234 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1822713 ns
+	REAL:           1232967 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1536369 ns
+	REAL:           1085218 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1823794 ns
+	REAL:           971890 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1978265 ns
+	REAL:           1015108 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           3076 ns
+	REAL:           1982 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           459 ns
+ 176  350 4374 main.c
+	REAL:           398 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  24  53 609 interface.h
-!	REAL:           255 ns
+!	REAL:           260 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           255 ns
+!	REAL:           251 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           253 ns
+ 143  375 4466 interface.c
+	REAL:           246 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1130 ns
+	REAL:           765 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           268 ns
+	REAL:           292 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           269 ns
+	REAL:           270 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           248 ns
+	REAL:           260 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 WC_PROVIDER destroyed
-	REAL:           1261 ns
+	REAL:           1046 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -77,73 +77,73 @@ No PROVIDER detected to be destroyed
 file : ./results/results_dynamic_-O0.txt ...
 
 
-	REAL:           4757 ns
+	REAL:           4322 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1875696 ns
+	REAL:           947000 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           2191130 ns
+	REAL:           1282312 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           2283734 ns
+	REAL:           1055024 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           2037441 ns
+	REAL:           875754 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1987398 ns
+	REAL:           941067 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           2842 ns
+	REAL:           1783 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           466 ns
+ 176  350 4374 main.c
+	REAL:           361 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  24  53 609 interface.h
-!	REAL:           336 ns
+!	REAL:           257 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           322 ns
+!	REAL:           241 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           320 ns
+ 143  375 4466 interface.c
+	REAL:           238 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           13643 ns
+	REAL:           751 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           330 ns
+	REAL:           248 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           332 ns
+	REAL:           237 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           341 ns
+	REAL:           241 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 WC_PROVIDER destroyed
-	REAL:           1492 ns
+	REAL:           1256 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -152,487 +152,37 @@ No PROVIDER detected to be destroyed
 file : ./results/results_dynamic_-O1.txt ...
 
 
-	REAL:           4221 ns
+	REAL:           3768 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1566468 ns
+	REAL:           916681 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           2004805 ns
+	REAL:           1344586 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1438151 ns
+	REAL:           1003682 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1532833 ns
+	REAL:           892599 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1583638 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2232 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           438 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           308 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           306 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           304 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1059 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           241 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           226 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           234 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           1261 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_dynamic_-O2.txt ...
-
-
-	REAL:           6326 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1675324 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1722238 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2003646 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1563510 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2049894 ns
+	REAL:           846147 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           3117 ns
+	REAL:           15081 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           328 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           229 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           227 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           233 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           854 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           247 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           236 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           246 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           997 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_dynamic_-Os.txt ...
-
-
-	REAL:           4614 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1968467 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1719599 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1695942 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1656755 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1820639 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2756 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           382 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           259 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           260 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           283 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1170 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           278 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           248 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           277 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           966 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_shared_-O.txt ...
-
-
-	REAL:           5232 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1569674 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1567654 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1888219 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1639980 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1444671 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2434 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           360 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           232 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           232 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           228 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1230 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           259 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           239 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           245 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           891 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_shared_-O0.txt ...
-
-
-	REAL:           5875 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1694814 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1957511 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1428902 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1566375 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1959126 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           4637 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           482 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           294 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           327 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           242 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1139 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           269 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           248 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           247 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           1052 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_shared_-O1.txt ...
-
-
-	REAL:           6317 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1672693 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1878604 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1665257 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2061991 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1790046 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2275 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           345 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           240 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           240 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           238 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1139 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           271 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           246 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           241 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           970 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_shared_-O2.txt ...
-
-
-	REAL:           6807 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1747903 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2007233 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2010943 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1693946 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1497422 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2888 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           334 ns
+ 176  350 4374 main.c
+	REAL:           361 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -642,24 +192,99 @@ file : ./results/results_shared_-O2.txt ...
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           227 ns
+!	REAL:           222 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           230 ns
+ 143  375 4466 interface.c
+	REAL:           226 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1119 ns
+	REAL:           874 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           246 ns
+	REAL:           249 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           258 ns
+	REAL:           244 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           232 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           978 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_dynamic_-O2.txt ...
+
+
+	REAL:           3634 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           957681 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1164519 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1140819 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           866392 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           927542 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           1705 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           359 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           226 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           229 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           229 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           652 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           244 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           220 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -668,140 +293,69 @@ file : ./results/results_shared_-O2.txt ...
 	USER:           0 ticks
 
 WC_PROVIDER destroyed
-	REAL:           968 ns
+	REAL:           846 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 No PROVIDER detected to be destroyed
 -e ================
-file : ./results/results_shared_-Os.txt ...
+file : ./results/results_dynamic_-Os.txt ...
 
 
-	REAL:           4185 ns
+	REAL:           4217 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1757454 ns
+	REAL:           1076882 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1890235 ns
+	REAL:           1091433 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1517240 ns
+	REAL:           961351 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1567960 ns
+	REAL:           886566 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1705827 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           2457 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           517 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           322 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           337 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           303 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1274 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           339 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           302 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           348 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           1237 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_static_-O.txt ...
-
-
-	REAL:           6578 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1766958 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1544688 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1525654 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1402760 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1928450 ns
+	REAL:           863609 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           2747 ns
+	REAL:           1782 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           408 ns
+ 176  350 4374 main.c
+	REAL:           403 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  24  53 609 interface.h
-!	REAL:           321 ns
+!	REAL:           259 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           335 ns
+!	REAL:           255 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           327 ns
+ 143  375 4466 interface.c
+	REAL:           249 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           438 ns
+	REAL:           791 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           267 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -809,280 +363,126 @@ file : ./results/results_static_-O.txt ...
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           313 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           314 ns
+	REAL:           263 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 WC_PROVIDER destroyed
-	REAL:           669 ns
+	REAL:           5802 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 No PROVIDER detected to be destroyed
 -e ================
-file : ./results/results_static_-O0.txt ...
+file : ./results/results_shared_-O.txt ...
 
 
-	REAL:           5636 ns
+	REAL:           9521 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           2597165 ns
+	REAL:           1229168 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1693809 ns
+	REAL:           1409339 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1646413 ns
+	REAL:           1164436 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1683603 ns
+	REAL:           1214974 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1587744 ns
+	REAL:           952243 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           1014 ns
+	REAL:           2459 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           322 ns
+ 176  350 4374 main.c
+	REAL:           398 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  24  53 609 interface.h
-!	REAL:           242 ns
+!	REAL:           247 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           238 ns
+!	REAL:           237 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           239 ns
+ 143  375 4466 interface.c
+	REAL:           226 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           481 ns
+	REAL:           847 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           238 ns
+	REAL:           258 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           240 ns
+	REAL:           244 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           246 ns
+	REAL:           237 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 WC_PROVIDER destroyed
-	REAL:           570 ns
+	REAL:           832 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
 No PROVIDER detected to be destroyed
 -e ================
-file : ./results/results_static_-O1.txt ...
+file : ./results/results_shared_-O0.txt ...
 
 
-	REAL:           5105 ns
+	REAL:           5676 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1865244 ns
+	REAL:           1077144 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1502030 ns
+	REAL:           974576 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1605917 ns
+	REAL:           1007339 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1776895 ns
+	REAL:           994219 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           1613845 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           985 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           404 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           357 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           337 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           337 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           406 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           333 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           242 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           234 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           473 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_static_-O2.txt ...
-
-
-	REAL:           5207 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1945679 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1821577 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1867504 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1742363 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1700888 ns
+	REAL:           1142752 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
  23  50 527 dynamic.h
-	REAL:           1481 ns
+	REAL:           4068 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 223  453 5932 main.c
-	REAL:           386 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 24  53 609 interface.h
-!	REAL:           298 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 31  71 813 dlmanager.h
-!	REAL:           266 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 144  382 4483 interface.c
-	REAL:           291 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           413 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           265 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           260 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           266 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-WC_PROVIDER destroyed
-	REAL:           3989 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-No PROVIDER detected to be destroyed
--e ================
-file : ./results/results_static_-Os.txt ...
-
-
-	REAL:           7743 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           2275631 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1523066 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1415345 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1679748 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
-	REAL:           1539738 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 23  50 527 dynamic.h
-	REAL:           966 ns
-	SYS:            0 ticks
-	USER:           0 ticks
-
- 223  453 5932 main.c
-	REAL:           446 ns
+ 176  350 4374 main.c
+	REAL:           369 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -1092,24 +492,95 @@ file : ./results/results_static_-Os.txt ...
 	USER:           0 ticks
 
  31  71 813 dlmanager.h
-!	REAL:           232 ns
+!	REAL:           236 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
- 144  382 4483 interface.c
-	REAL:           233 ns
+ 143  375 4466 interface.c
+	REAL:           239 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           359 ns
+	REAL:           1251 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           233 ns
+	REAL:           260 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
-	REAL:           229 ns
+	REAL:           259 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           238 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           1302 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_shared_-O1.txt ...
+
+
+	REAL:           5729 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1156459 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           896740 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1063905 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1316247 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1114085 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           3063 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           353 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           241 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           237 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           234 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           847 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           255 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 
@@ -1117,8 +588,537 @@ file : ./results/results_static_-Os.txt ...
 	SYS:            0 ticks
 	USER:           0 ticks
 
+	REAL:           241 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
 WC_PROVIDER destroyed
-	REAL:           580 ns
+	REAL:           1073 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_shared_-O2.txt ...
+
+
+	REAL:           7450 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1125293 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1103326 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1059306 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1313927 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1192221 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           3540 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           348 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           256 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           251 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           250 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1161 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           276 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           249 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           263 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           1115 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_shared_-Os.txt ...
+
+
+	REAL:           4820 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           878889 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1107698 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1001606 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           955186 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           895189 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           1833 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           360 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           234 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           222 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           221 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           716 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           233 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           228 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           232 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           1013 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_static_-O.txt ...
+
+
+	REAL:           7612 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1257311 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1185445 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1002873 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1272971 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1027033 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           875 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           340 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           240 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           240 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           231 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           328 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           232 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           236 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           241 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           488 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_static_-O0.txt ...
+
+
+	REAL:           6607 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1137365 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1255677 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           988288 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1051750 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1094131 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           996 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           409 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           269 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           285 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           267 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           525 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           267 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           265 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           278 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           490 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_static_-O1.txt ...
+
+
+	REAL:           5198 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1322124 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1135385 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1065278 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           904821 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           878717 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           798 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           314 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           237 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           228 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           228 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           337 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           229 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           225 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           245 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           484 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_static_-O2.txt ...
+
+
+	REAL:           4812 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1369049 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1350929 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           972721 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           920392 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           871858 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           1060 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           443 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           321 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           303 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           305 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           469 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           305 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           361 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           322 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           634 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+No PROVIDER detected to be destroyed
+-e ================
+file : ./results/results_static_-Os.txt ...
+
+
+	REAL:           8645 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1155008 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           956841 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           848945 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           1062619 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           937048 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 23  50 527 dynamic.h
+	REAL:           893 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 176  350 4374 main.c
+	REAL:           364 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 24  53 609 interface.h
+!	REAL:           276 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 31  71 813 dlmanager.h
+!	REAL:           272 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+ 143  375 4466 interface.c
+	REAL:           248 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           380 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           246 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           260 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+	REAL:           255 ns
+	SYS:            0 ticks
+	USER:           0 ticks
+
+WC_PROVIDER destroyed
+	REAL:           571 ns
 	SYS:            0 ticks
 	USER:           0 ticks
 

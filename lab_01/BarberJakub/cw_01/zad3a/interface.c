@@ -57,17 +57,22 @@ void process_add_block(wc_provider* count_struct, const char* filepath){
         count_struct->max_size*=2;
     }
     char command[255];
-    snprintf(command,255,"wc %s > tmp/temp",filepath);
+    snprintf(command,255,"wc %s > /tmp/tempX",filepath);
     // printf("%s",command);
-    system(command);
-    if (read_block(&count_struct->results[count_struct->curr_size], "tmp/temp")){
+    int res = system(command);
+    if (res == -1 ){
+        printf("Error while executing system\n");
+        return;
+    }
+    if (read_block(&count_struct->results[count_struct->curr_size], "/tmp/tempX")){
         count_struct->curr_size++;
         // printf("Success\n");
         // printf("\n\n================\n\n");
     }else{
         printf("Error in counting file content\n");
     }
-    system("rm tmp/temp");
+    // system("rm /tmp/temp");
+    remove("/tmp/tempX");
 }
 
 

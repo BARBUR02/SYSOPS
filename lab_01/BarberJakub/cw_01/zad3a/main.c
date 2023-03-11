@@ -56,54 +56,6 @@ int main(){
         parse_command();
         // investigate_provider(*interface);
     }
-
-    // printf("Hello world\n");
-    // printf("Executing wc command for test.txt file ...\n");
-    // system("wc test.txt");
-
-    // wc_provider* test_struct = init_provider();
-
-    // investigate_provider(test_struct);
-    // struct timespec begin,end;
-    // clock_gettime(CLOCK_REALTIME, &begin);
-    // process_add_block(test_struct, "test.txt");
-    // process_add_block(test_struct, "test2.txt");
-    // process_add_block(test_struct, "test3.txt");
-    // process_add_block(test_struct, "test4.txt");
-    // process_add_block(test_struct, "test5.txt");
-    // process_add_block(test_struct, "test6.txt");
-    // process_add_block(test_struct, "test7.txt");
-    // investigate_provider(test_struct);
-    // show_block(test_struct,3);
-    // show_block(test_struct,2);
-    // show_block(test_struct,1);
-    // show_block(test_struct,0);
-    // show_block(test_struct,22);
-    // show_block(test_struct,-2);
-    
-    // remove_block(test_struct,0);
-
-    // investigate_provider(test_struct);
-    // remove_block(test_struct,5);
-
-    // investigate_provider(test_struct);
-
-    // remove_block(test_struct,3);
-
-    // investigate_provider(test_struct);
-
-    // remove_block(test_struct,0);
-    // investigate_provider(test_struct);
-    // remove_block(test_struct,3);
-    // investigate_provider(test_struct);
-    // investigate_provider(test_struct);
-    // destroy_wc_provider(test_struct);
-    // end=clock();
-    // clock_t delta = end-start;
-    // double time_taken = ((double) delta)/CLOCKS_PER_SEC;
-    // clock_gettime(CLOCK_REALTIME, &end);
-    
-
     return 0;
 }
 

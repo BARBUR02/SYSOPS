@@ -1,0 +1,17 @@
+init 6
+count dynamic.h
+count main.c
+count interface.h 
+count dlmanager.h 
+count interface.c 
+show 0
+show 1
+show 2
+show 3
+show 4
+delete 2
+delete 1
+delete 1
+delete 0
+destroy 
+exit

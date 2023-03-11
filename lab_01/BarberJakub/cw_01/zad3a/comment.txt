@@ -1,0 +1,5 @@
+Czasy w przypadku zadania 2 sa porownywalne dla kazdego z 3 sposobow kompilacji
+Wykonywane przez program polecenia nie sa zlozone i brak widocznych roznic nie powinien nas zaskakiwac.
+Generalnie spodziewamy sie najlepszego performancu ze strony programu kompilowalnego z wykorzystaniem biblioteki 
+statycznej, i troche gorszego (wolniejszego) z wykorzystaniem kolejno biblioteki dzielonej i ladowanej
+dynamicznie.

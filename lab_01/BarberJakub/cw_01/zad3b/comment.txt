@@ -1,0 +1,2 @@
+Widoczna roznica w czasie kompialcji dla flagi -O2 w porownaniu do -O
+Czasy generalnie porownywalne, w wiekszosci najwieksze dla flagi domyslnej -O0

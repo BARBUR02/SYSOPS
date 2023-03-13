@@ -1,0 +1,90 @@
+
+Length: 100
+Time taken: 0.000137s
+
+Length: 1000
+Time taken: 0.000123s
+
+Length: 2000
+Time taken: 0.000147s
+
+Length: 3000
+Time taken: 0.000188s
+
+Length: 4000
+Time taken: 0.000135s
+
+Length: 5000
+Time taken: 0.000129s
+
+Length: 6000
+Time taken: 0.000149s
+
+Length: 7000
+Time taken: 0.000134s
+
+Length: 8000
+Time taken: 0.000130s
+
+Length: 9000
+Time taken: 0.000148s
+
+Length: 100
+Time taken: 0.000090s
+
+Length: 1000
+Time taken: 0.000116s
+
+Length: 2000
+Time taken: 0.000119s
+
+Length: 3000
+Time taken: 0.000123s
+
+Length: 4000
+Time taken: 0.000120s
+
+Length: 5000
+Time taken: 0.000176s
+
+Length: 6000
+Time taken: 0.000138s
+
+Length: 7000
+Time taken: 0.000183s
+
+Length: 8000
+Time taken: 0.000197s
+
+Length: 9000
+Time taken: 0.000141s
+
+Length: 100
+Time taken: 0.000090s
+
+Length: 1000
+Time taken: 0.000128s
+
+Length: 2000
+Time taken: 0.000189s
+
+Length: 3000
+Time taken: 0.000133s
+
+Length: 4000
+Time taken: 0.000158s
+
+Length: 5000
+Time taken: 0.000153s
+
+Length: 10000
+Time taken: 0.000152s
+
+Length: 100000
+Time taken: 0.000716s
+
+Length: 1000000
+Time taken: 0.001926s
+
+Length: 10000000
+Time taken: 0.015060s

@@ -1,0 +1,27 @@
+
+Length: 100
+Time taken: 0.000231s
+
+Length: 200
+Time taken: 0.000339s
+
+Length: 300
+Time taken: 0.000420s
+
+Length: 400
+Time taken: 0.000462s
+
+Length: 1000
+Time taken: 0.000841s
+
+Length: 20000
+Time taken: 0.013637s
+
+Length: 10000
+Time taken: 0.006983s
+
+Length: 100000
+Time taken: 0.072598s
+
+Length: 1000000
+Time taken: 0.709328s

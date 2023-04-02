@@ -1,0 +1,2 @@
+Widzimy, że tworzac proces potomny funkcja fork, dziedziczy on po procesie macierzystym handling, maskowanie oraz
+ignorowanie ale w przeciwienstwie do wywolania za pomoca exec, proces potomny nie widzi sygnalu oczekujacego.

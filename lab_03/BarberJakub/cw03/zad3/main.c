@@ -120,7 +120,7 @@ int main(int argc, char* argv[]){
         return 1;
     }
     // printf("Loaded in realpath: %s\n",exe_path);
-    fflush(stdout);
+    // fflush(stdout);
     char* dir_path = argv[1];
     char* string_start = argv[2];
     traverse_dir(dir_path,string_start,exe_path);

@@ -39,6 +39,7 @@ int main(int argc, char* argv[]){
 
     clock_gettime(CLOCK_REALTIME,&end);
 
+    // due to nanosecond and second representation in timespec struct
     double time_taken = (end.tv_sec-begin.tv_sec) + (end.tv_nsec-begin.tv_nsec)*BILLION;
     printf("Time taken: %lfs\n",time_taken);
     return 0;

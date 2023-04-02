@@ -1,0 +1,29 @@
+Wynik wywołania:
+
+Testing SIGINFO flag : 
+Signal number : 10
+UID : 1000
+PID : 27811
+POSIX timer : 27811
+Exit val : 0
+
+Signal number : 10
+UID : 1000
+PID : 27812
+POSIX timer : 27812
+Exit val : 0
+
+
+Testing SA_NODEFER
+NODEFER callID: 0
+NODEFER callID: 1
+NODEFER callID: 2
+
+Testing SA_RESETHAND
+NODEFER callID: 0
+User defined signal 1
+
+
+Widzimy, że dla flagi NODEFER mozliwe jest wysyłanie sygnału z funckji handeującej sygnał.
+Jeżeli chodzi o SA_RESETHAND to widzimy, że wywołana z handlera akcja została odtworzona do stanu domyślnego.
+W przypadku siginfo faktycznie jako handler wywoływana jest funkcja sa_sigaction

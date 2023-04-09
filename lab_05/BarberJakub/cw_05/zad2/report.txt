@@ -1,0 +1,36 @@
+
+Result for 3 iterations and epsilon = 0.000001 :
+Value for integral of f(x) for n = 3 : 3.141590
+Time taken: 0.004623s
+
+Result for 3 iterations and epsilon = 0.00000001 :
+Value for integral of f(x) for n = 3 : 3.141592
+Time taken: 0.363680s
+
+Result for 3 iterations and epsilon = 0.000000001 :
+Value for integral of f(x) for n = 3 : 3.141592
+Time taken: 2.329541s
+
+Result for 10 iterations and epsilon = 0.000001 :
+Value for integral of f(x) for n = 10 : 3.141594
+Time taken: 0.004225s
+
+Result for 10 iterations and epsilon = 0.00000001 :
+Value for integral of f(x) for n = 10 : 3.141594
+Time taken: 0.359509s
+
+Result for 10 iterations and epsilon = 0.000000001 :
+Value for integral of f(x) for n = 10 : 3.141594
+Time taken: 2.724989s
+
+Result for 20 iterations and epsilon = 0.000001 :
+Value for integral of f(x) for n = 20 : 3.141592
+Time taken: 0.003942s
+
+Result for 20 iterations and epsilon = 0.00000001 :
+Value for integral of f(x) for n = 20 : 3.141592
+Time taken: 0.206657s
+
+Result for 20 iterations and epsilon = 0.000000001 :
+Value for integral of f(x) for n = 20 : 3.141592
+Time taken: 1.999235s
